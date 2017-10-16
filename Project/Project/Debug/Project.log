@@ -1,3 +1,15 @@
 ﻿  menu.cpp
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xutility(3638): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xutility(3638): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(73): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(73): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(669): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(669): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(699): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(699): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(736): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocale(736): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocnum(101): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+f:\học tập\vs\vc\tools\msvc\14.10.25017\include\xlocnum(101): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
   Project.vcxproj -> C:\Users\Administrator\Desktop\C++2\Assignment\Project\Debug\Project.exe
-  Project.vcxproj -> C:\Users\Administrator\Desktop\C++2\Assignment\Project\Debug\Project.pdb (Full PDB)
+  Project.vcxproj -> C:\Users\Administrator\Desktop\C++2\Assignment\Project\Debug\Project.pdb (Partial PDB)

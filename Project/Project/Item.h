@@ -18,5 +18,11 @@ class Item {
 		int getSold() const;
 		float sell(int n);
 		void add(int n);
+		void printItem();
+		void setName(string name);
+		void setPrice(float price);
+		void setAmount(int amount);
+		void setSold(int sold);
 		friend ostream &operator<<(ostream& out, const Item& i);
+		friend istream &operator >> (istream& in, Item& i);
 };

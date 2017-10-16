@@ -14,16 +14,18 @@ using namespace std;
 class Stock {
 	private:
 		float revenue;
-		map<string, Item*> *list;
+		map<string, Item> *list;
 	public:
 		Stock();
 		~Stock();
-		void saveList();
-		void loadList();
+		void saveMoney();
+		void loadMoney();
 		void addItem(string name, float price, int amount);
 		void Replenish(string i, int n);
 		void Sell(string i, int n);
 		void Find(string i);
 		void printList();
 		void Clear();
+		friend ostream &operator<<(ostream& out, const Stock& s);
+		friend istream &operator >> (istream& in, Stock& i);
 };
